@@ -101,6 +101,10 @@ quote2
 ## <a id="horizontal"></a>分割线&nbsp;&nbsp;[:point_up:][wiki] ##
 
 ```markdown
+***
+---
+___
+* * *
 ```
 
 ***
