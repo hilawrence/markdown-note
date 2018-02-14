@@ -1,7 +1,5 @@
 # <a id="wiki">Markdown - 维基百科</a>&nbsp;&nbsp;[:point_left:][readme.note] #
 
----
-
 * 图片&nbsp;&nbsp;&nbsp;&nbsp;[:point_down:][image]
 * 换行&nbsp;&nbsp;&nbsp;&nbsp;[:point_down:][line_break]
 * 强调&nbsp;&nbsp;&nbsp;&nbsp;[:point_down:][emphasis]
@@ -10,11 +8,7 @@
 * 链接&nbsp;&nbsp;&nbsp;&nbsp;[:point_down:][link]
 * 分割线&nbsp;&nbsp;&nbsp;&nbsp;[:point_down:][horizontal]
 
----
-
 ## <a id="image"></a>图片&nbsp;&nbsp;[:point_up:][wiki] ##
-
----
 
 ```markdown
 ![markdown](../image/markdown.jpg)
@@ -22,11 +16,7 @@
 
 ![markdown](../image/markdown.jpg)
 
----
-
 ## <a id="line_break"></a>换行&nbsp;&nbsp;[:point_up:][wiki] ##
-
----
 
 至少2个空格
 
@@ -40,11 +30,7 @@
 2 spaces  
 3 spaces   
 
----
-
 ## <a id="emphasis"></a>强调&nbsp;&nbsp;[:point_up:][wiki] ##
-
----
 
 ```markdown
 *italic* _italic_  
@@ -53,13 +39,9 @@
 
 *italic* _italic_  
 **bold** __bold__
-
----
 
 ## <a id="header"></a>标题&nbsp;&nbsp;[:point_up:][wiki] ##
 
----
-
 ```markdown
 # header1
 ## header2
@@ -83,13 +65,9 @@ header1
 =
 header2
 -
-
----
 
 ## <a id="quote"></a>引用&nbsp;&nbsp;[:point_up:][wiki] ##
 
----
-
 ```markdown
 > quote1  
 quote2
@@ -103,13 +81,9 @@ quote2
 
 > quote1
 >> quote2
-
----
 
 ## <a id="link"></a>链接&nbsp;&nbsp;[:point_up:][wiki] ##
 
----
-
 ```markdown
 [Markdown - 维基百科](https://zh.wikipedia.org/wiki/Markdown "Markdown - 维基百科")
 
@@ -124,11 +98,7 @@ quote2
 
 [markdown-wiki]: https://zh.wikipedia.org/wiki/Markdown "Markdown - 维基百科"
 
----
-
 ## <a id="horizontal"></a>分割线&nbsp;&nbsp;[:point_up:][wiki] ##
-
----
 
 ```markdown
 ```
@@ -137,8 +107,6 @@ quote2
 ---
 ___
 * * *
-
----
 
 <!-- 链接 开始 -->
 [wiki]: #wiki "Markdown - 维基百科"

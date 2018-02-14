@@ -1,22 +1,12 @@
 # markdown-note #
 
----
-
 Markdown学习笔记
-
----
 
 ## <a id="note"></a>笔记 ##
 
----
-
 * Markdown - 维基百科&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][note.wiki]
 
----
-
 ## 参考 ##
-
----
 
 * Markdown - 维基百科  
   <https://zh.wikipedia.org/wiki/Markdown>
@@ -29,11 +19,7 @@ Markdown学习笔记
 * GitHub Flavored Markdown Spec  
   <https://github.github.com/gfm/>
 
----
-
 ## TODO ##
-
----
 
 * Markdown - 维基百科
 * markdown 语法 图片尺寸
@@ -42,8 +28,6 @@ Markdown学习笔记
     <https://gist.github.com/rxaviers/7360908>
   * 已使用emoji  
     👆 `:point_up:` 👉 `:point_right:` 👇 `:point_down:` 👈 `:point_left:`
-
----
 
 <!-- 链接 开始 -->
 [note.wiki]: note/wiki.md#wiki "Markdown - 维基百科"
