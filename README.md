@@ -21,13 +21,16 @@ Markdown学习笔记
 
 ## TODO ##
 
-* Markdown - 维基百科
+* Markdown: Syntax
 * markdown 语法 图片尺寸
 * github emoji
   * Complete list of github markdown emoji markup  
     <https://gist.github.com/rxaviers/7360908>
   * 已使用emoji  
     👆 `:point_up:` 👉 `:point_right:` 👇 `:point_down:` 👈 `:point_left:`
+* github 预览
+  * github emoji 预览
+  * markdown 不同文件锚点跳转
 
 <!-- 链接 开始 -->
 [note.wiki]: note/wiki.md#wiki "Markdown - 维基百科"
