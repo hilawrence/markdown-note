@@ -173,6 +173,8 @@ ___
 ```markdown
 [inline](http://wowubuntu.com/markdown/index.html "Markdown 语法说明 (简体中文版) - Wow!Ubuntu")
 
+<http://wowubuntu.com/markdown/index.html>
+
 [reference][link-id]
 
 [link-id]: http://wowubuntu.com/markdown/index.html "Markdown 语法说明 (简体中文版) - Wow!Ubuntu"
