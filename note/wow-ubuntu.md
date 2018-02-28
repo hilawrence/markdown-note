@@ -266,20 +266,6 @@ __double underscores bold__
 
 \\ \` \* \_ \{ \} \[ \] \( \) \# \+ \- \. \!
 
-<!--
-* &nbsp;&nbsp;&nbsp;&nbsp;[:point_down:][]
-  * &nbsp;&nbsp;&nbsp;&nbsp;[:point_down:][]
-
-## <a id=""></a>&nbsp;&nbsp;[:point_up:][wow-ubuntu] ##
-### <a id=""></a>&nbsp;&nbsp;[:point_up:][wow-ubuntu] ###
-
-```markdown
-
-```
-
-[]: # ""
--->
-
 <!-- 链接 开始 -->
 [wow-ubuntu]: #wow-ubuntu "Markdown 语法说明 (简体中文版) - Wow!Ubuntu"
 [readme.note]: ../README.md#note "README 笔记"
