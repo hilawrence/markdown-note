@@ -53,25 +53,28 @@
 ### <a id="block.header"></a>标题&nbsp;&nbsp;[:point_up:][wow-ubuntu] ###
 
 ```markdown
-# header1 #
-## hader2 ##
-### header3 ###
-#### header4 ####
-##### heade5 #####
-###### header6 ######
-header1
+# atx-style header1
+## header2
+### header3
+#### header4
+##### header5
+###### header6
+# close atx-style header1 #
+setext-style header1
 =
 header2
 -
+-
 ```
 
-# header1 #
-## hader2 ##
-### header3 ###
-#### header4 ####
-##### heade5 #####
-###### header6 ######
-header1
+# atx-style header1
+## header2
+### header3
+#### header4
+##### header5
+###### header6
+# close atx-style header1 #
+setext-style header1
 =
 header2
 -
