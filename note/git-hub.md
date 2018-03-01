@@ -126,11 +126,11 @@ function doSomething() {
 
 ```markdown
 - [x] task1
-- [] task
+- [ ] task
 ```
 
 - [x] task1
-- [] task
+- [ ] task
 
 ### <a id="gfm.table"></a>&nbsp;&nbsp;[:point_up:][git-hub] ###
 
