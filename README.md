@@ -6,6 +6,7 @@ Markdown学习笔记
 
 * Markdown - 维基百科&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][note.wiki]
 * Markdown 语法说明 (简体中文版) - Wow!Ubuntu&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][note.wow-ubuntu]
+* Mastering Markdown - GitHub - Wow!Ubuntu&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][note.git-hub]
 
 ## 参考 ##
 
@@ -22,7 +23,9 @@ Markdown学习笔记
 
 ## TODO ##
 
-* markdown 语法 图片尺寸
+* markdown 语法
+  * 图片尺寸
+  * 代码块 嵌套
 * github 预览
   * github emoji 预览
   * markdown 不同文件锚点跳转
@@ -30,4 +33,5 @@ Markdown学习笔记
 <!-- 链接 开始 -->
 [note.wiki]: note/wiki.md#wiki "Markdown - 维基百科"
 [note.wow-ubuntu]: note/wow-ubuntu.md#wow-ubuntu "Markdown 语法说明 (简体中文版) - Wow!Ubuntu"
+[note.git-hub]: note/git-hub.md#git-hub "Mastering Markdown - GitHub"
 <!-- 链接 结束 -->
