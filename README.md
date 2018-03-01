@@ -6,7 +6,7 @@ Markdown学习笔记
 
 * Markdown - 维基百科&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][note.wiki]
 * Markdown 语法说明 (简体中文版) - Wow!Ubuntu&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][note.wow-ubuntu]
-* Mastering Markdown - GitHub - Wow!Ubuntu&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][note.git-hub]
+* Mastering Markdown - GitHub&nbsp;&nbsp;&nbsp;&nbsp;[:point_right:][note.git-hub]
 
 ## 参考 ##
 
