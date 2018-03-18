@@ -192,20 +192,6 @@ mojombo/github-flavored-markdown#1
 
 :smiley_cat:
 
-<!--
-* &nbsp;&nbsp;&nbsp;&nbsp;[:point_down:][]
-  * &nbsp;&nbsp;&nbsp;&nbsp;[:point_down:][]
-
-## <a id=""></a>&nbsp;&nbsp;[:point_up:][git-hub] ##
-### <a id=""></a>&nbsp;&nbsp;[:point_up:][git-hub] ###
-
-```markdown
-
-```
-
-[]: # ""
--->
-
 <!-- 链接 开始 -->
 [git-hub]: #git-hub "Mastering Markdown - GitHub"
 [readme.note]: ../README.md#note "README 笔记"
