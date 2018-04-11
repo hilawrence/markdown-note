@@ -25,11 +25,7 @@ Markdown学习笔记
 
 * Markdown: Syntax - Mastering Markdown - GitHub
 * markdown 语法
-  * 图片尺寸
   * 代码块 嵌套
-* github 预览
-  * github emoji 预览
-  * markdown 不同文件锚点跳转
 
 <!-- 链接 开始 -->
 [note.wiki]: note/wiki.md#wiki "Markdown - 维基百科"
